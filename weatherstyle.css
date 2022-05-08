@@ -1,0 +1,135 @@
+.city {
+  text-align: center;
+  font-family: Oriya MN;
+  display: block;
+}
+.country {
+  text-align: center;
+  font-family: Oriya MN;
+  display: block;
+}
+
+h1 {
+  font-family: Oriya MN;
+  font-size: 22.5px;
+  text-align: center;
+  color: rgb(3, 3, 3);
+  padding: 0;
+  margin: 0;
+}
+h2 {
+  font-family: Quicksand;
+  font-size: 15px;
+  text-align: center;
+  font-weight: lighter;
+  color: rgb(3, 3, 3);
+  padding: 0;
+  margin: 0;
+}
+
+h3 {
+  text-align: center;
+  font-size: 99px;
+  font-weight: 1px;
+  font-weight: bolder;
+}
+.weather-condition {
+  font-family: Oriya MN;
+  text-align: center;
+  font-size: 20px;
+  font-weight: lighter;
+  color: rgb(3, 3, 3);
+}
+h4 {
+  text-align: center;
+  color: rgb(3, 3, 3);
+  font-family: Oriya MN;
+  font-size: 30px;
+  font-weight: 3px;
+}
+
+.page {
+  background: linear-gradient(
+    179.5deg,
+    rgb(255, 230, 69) 3.3%,
+    rgb(255, 157, 73) 96%
+  );
+}
+
+.row {
+  font-family: Oriya MN;
+  font-weight: thinner;
+  color: rgb(3, 3, 3);
+  font-size: 20px;
+  margin: 3px;
+  text-align: center;
+}
+
+.farhenheit {
+  font-size: 15px;
+  color: dimgrey;
+}
+
+.humidity {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 12px;
+  position: fixed;
+  right: 20px;
+  text-align: right;
+}
+.wind {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 12px;
+  position: fixed;
+  right: 20px;
+  text-align: right;
+}
+.cf {
+  position: relative;
+  top: 10px;
+  font-size: 15px;
+  background-color: transparent;
+  vertical-align: text-top;
+  margin-top: 70px;
+}
+#celsius {
+  text-decoration: none;
+  color: dimgray;
+}
+
+#farenheit {
+  text-decoration: none;
+  color: dimgray;
+}
+.searchBar {
+  border-radius: 5px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 10px;
+  position: relative;
+  top: 10px;
+  text-align: center;
+  width: 50%;
+}
+.enter {
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  top: -12px;
+  left: 150px;
+  border: rgb(3, 3, 3);
+}
+.search {
+  font-size: 15px;
+}
+.current-button {
+  display: block;
+  color: #111;
+  background-color: transparent;
+  margin: 0 auto;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 12px;
+}
